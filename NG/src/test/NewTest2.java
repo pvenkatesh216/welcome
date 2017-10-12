@@ -8,5 +8,6 @@ public class NewTest2 {
 	  
 	  System.out.println("Welcome 2");
 	  welcome.First();
+	  System.out.println("New message after first commits");
   }
 }
