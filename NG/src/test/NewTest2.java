@@ -10,6 +10,7 @@ public class NewTest2 {
 	  welcome.First();
 	  System.out.println("New message after first commits");
 	  System.out.println("Commit from Git");
+	  System.out.println("New comment");
 		  
 
   }
